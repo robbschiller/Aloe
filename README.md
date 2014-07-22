@@ -1,8 +1,9 @@
 #Aloe 
+| Soothing color scheme for Xcode
 
-To add the theme to Xcode navigate to the Aloe folder and run
-
-mv Aloe.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+## Installation
+1. Make a folder in `~/Library/Developer/Xcode/UserData` called `FontAndColorThemes` if it doesn't already exist.
+2. Copy the theme file from the cloned directory to the new folder `mv Aloe.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
 
 ##Preview
 
